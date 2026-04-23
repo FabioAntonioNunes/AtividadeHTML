@@ -1,0 +1,22 @@
+h1{
+    color: green;
+    text-aling: center;
+}
+body{
+    border-color:aquamarine;
+    font-family: "Arial";
+    font-size: 30px;
+    line-height: 45px;
+    background-image: url("img/marrom.jpg");
+}
+a:link{
+    color: red;
+}
+h2{
+    color: blue;
+
+}
+table{
+    background-color: rgba(55, 111, 108, 0.5);
+    
+}
