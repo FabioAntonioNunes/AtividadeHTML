@@ -1,22 +1,29 @@
 h1{
     color: green;
-    text-aling: center;
+    text-align: center;
+    font-family: Poppins;
 }
 body{
-    border-color:aquamarine;
+    border-color:brown;
     font-family: "Arial";
     font-size: 30px;
     line-height: 45px;
     background-image: url("img/marrom.jpg");
+    text-align: justify;
+    border-style: solid;
+    border-width: 20000 px;
 }
 a:link{
     color: red;
 }
 h2{
     color: blue;
+    font-family: Poppins;
 
 }
 table{
     background-color: rgba(55, 111, 108, 0.5);
-    
+}
+.t {
+    font-family: poppins, sans-serif;
 }
