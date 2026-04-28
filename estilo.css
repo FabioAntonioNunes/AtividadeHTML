@@ -21,9 +21,23 @@ h2{
     font-family: Poppins;
 
 }
-table{
-    background-color: rgba(55, 111, 108, 0.5);
-}
+
 .t {
     font-family: poppins, sans-serif;
+}
+th{
+    background-color: white;
+    border-style: dotted;
+}
+td.SM1, .SB1{
+    background-color: rgba(0, 0, 255, 0.8);
+}
+td.SM2, .SM3, .SB2, .SB3{
+    background-color: aquamarine;
+}
+td.C1, .Q1{
+    background-color: rgba(0, 255, 0, 0.8)
+}
+td.C2, .C3, .Q2, .Q3{
+    background-color: rgba(0, 150, 0, 0.479)
 }
